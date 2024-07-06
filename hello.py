@@ -16,3 +16,4 @@ print('Dashboard')
 print('Welcome to Dashboar')
 
 
+>>>>>>> Add settings
