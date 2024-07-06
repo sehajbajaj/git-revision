@@ -6,3 +6,5 @@ print('Welcome to the Hello World App.')
 =======
 print('Greetings from the Hello World app.')
 >>>>>>> Change greeting message on master
+print('Goodbye.')
+print('See you soon.')
