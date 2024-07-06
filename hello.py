@@ -4,6 +4,7 @@ print(f'Hello, {Name}.')
 
 print('Welcome to the Hello World App.')
 print('Master branch changes')
+<<<<<<< HEAD
 
 
 print('Welcome to the Hello World App.')
@@ -16,4 +17,3 @@ print('Dashboard')
 print('Welcome to Dashboar')
 
 
->>>>>>> Add settings
